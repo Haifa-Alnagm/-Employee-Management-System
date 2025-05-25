@@ -1,0 +1,5 @@
+G:\هيثم\اكرم\Employee-Management-System-main\EmployeeManagamentSystem\EmplyeeManagamentSystem\bin\Debug\net8.0-windows\EmployeeManagamentSystem.exe
+G:\هيثم\اكرم\Employee-Management-System-main\EmployeeManagamentSystem\EmplyeeManagamentSystem\bin\Debug\net8.0-windows\EmployeeManagamentSystem.dll
+G:\هيثم\اكرم\Employee-Management-System-main\EmployeeManagamentSystem\EmplyeeManagamentSystem\bin\Debug\net8.0-windows\EmployeeManagamentSystem.pdb
+G:\هيثم\اكرم\Employee-Management-System-main\EmployeeManagamentSystem\EmplyeeManagamentSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+G:\هيثم\اكرم\Employee-Management-System-main\EmployeeManagamentSystem\EmplyeeManagamentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
